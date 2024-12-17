@@ -1,0 +1,6 @@
+name: NadwejowaPomoc
+version: "${version}"
+main: "pl.nadwey.nadwejowapomoc.NadwejowaPomoc"
+api-version: "1.21"
+authors: [ Nadwey ]
+description: "Nie używaj tego"
