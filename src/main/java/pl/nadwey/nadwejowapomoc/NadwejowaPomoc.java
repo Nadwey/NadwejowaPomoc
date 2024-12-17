@@ -10,7 +10,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 /**
  * Notatki:
  * <ul>
- * <li>W idealnym świecie handler powinien być w osobnej klasie ale to jest tylko</li>
+ * <li>W idealnym świecie handler powinien być w osobnej klasie ale to jest tylko taki se przykład</li>
  * </ul>
  */
 public final class NadwejowaPomoc extends JavaPlugin implements Listener {
